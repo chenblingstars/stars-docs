@@ -1,12 +1,12 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-22 17:12:56
- * @LastEditTime: 2021-12-22 17:25:29
+ * @LastEditTime: 2021-12-22 17:28:18
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /stars-doc/docs/_coverpage.md
 -->
-![logo](/docs/algorithm/beverage.svg)
+![logo](https://docsify.js.org/_media/icon.svg)
 
 # 陈bling
 
