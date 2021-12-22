@@ -1,8 +1,8 @@
 <!--
  * @Author: your name
  * @Date: 2021-11-17 10:02:23
- * @LastEditTime: 2021-12-22 16:15:33
- * @LastEditors: your name
+ * @LastEditTime: 2021-12-22 16:21:33
+ * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /stars-doc/docs/algorithm/queue.md
 -->
@@ -16,7 +16,7 @@
 
 队列支持两种操作：入队和出队。入队会向队列追加一个新元素，而出队会删除第一个元素。所以我们需要一个索引来指出起点。
 
-### 缺点
+#### 缺点
 
 <img src="https://aliyun-lc-upload.oss-cn-hangzhou.aliyuncs.com/aliyun-lc-upload/uploads/2018/07/21/screen-shot-2018-07-21-at-153713.png" alt="img" style="zoom:50%;" />
 
