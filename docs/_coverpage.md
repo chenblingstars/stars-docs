@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-12-22 17:12:56
- * @LastEditTime: 2021-12-22 17:15:08
+ * @LastEditTime: 2021-12-22 17:20:23
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /stars-doc/docs/_coverpage.md
@@ -17,3 +17,11 @@
 
 [GitHub](https://github.com/chenblingstars/stars-docs)
 [Get Started](#es6/letconst)
+
+<!-- 背景图片
+
+![](_media/bg.png) -->
+
+<!-- 背景色 -->
+
+![color](#f0f0f0)
